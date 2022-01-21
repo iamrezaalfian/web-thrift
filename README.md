@@ -1,3 +1,5 @@
 # WEB THRIFT
+![thrift](https://user-images.githubusercontent.com/76726665/150539057-68af42ce-7ba3-4596-8dd4-6b25da1b516f.gif)
+
 
 SIMPLE WEB ABOUT THRIFT SHOP USING PHP, CSS BOOTSTRAP 4, AND ADMIN LTE TEMPLATE
